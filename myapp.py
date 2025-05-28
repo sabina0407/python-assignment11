@@ -3,7 +3,7 @@ import plotly.express as px # Dash relies on Plotly to actually do the plotting.
 import plotly.data as pldata # This is only needed to give access to the Plotly built in datasets.
 import pandas as pd
 
-# Task 4: A Dashboard with Dash
+# Task 4 & 5: A Dashboard with Dash
 
 df = pldata.gapminder()
 
