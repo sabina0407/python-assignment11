@@ -1,0 +1,14 @@
+Task 6: Reflection
+
+1. Reflect on the differences between static and interactive visualizations.
+Static visualizations lile Matplotlib and Seaborn are simple charts that don't change; mostly useful for visualizing reports or basic data summaries and cannot be manipulated by the user.
+On the other hand, interactive visualizations like Plotly and Dash allow user intercativity such as hover, zoom, filter and to explore data in real time.
+
+2. Write a short paragraph discussing the advantages of using dashboards for real-time data exploration.
+Dashboards make it easier to monitor trends in real time. 
+Dash pages are dynamic, in that we can add dropdown lists or other controls to affect what is displayed. 
+Users can explore multiple aspects of the data without modifying the source code.
+
+3. Explain how interactive tools like Plotly and Dash can improve data communication in professional settings.
+Plotly and Dash provide a professional way to turn raw data into interactive, web-based visualizations. They help make complex data more understandable and users to explore patterns, trends, and outliers on their own. 
+In a workplace setting, for example, instead of presenting static charts, professionals can offer dynamic tools that respond to the viewer’s input, making meetings and reports more effective.
